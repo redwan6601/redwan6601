@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=redwan6601&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redwan6601&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=redwan6601&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=redwan66011)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -20,9 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=redwan6601&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=redwan6601&icon=0&color=0)](https://visitcount.itsvg.in)
